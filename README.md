@@ -1,44 +1,52 @@
-# 👋 Hi, I'm Ziyad Ansari  
+# Hi there, I'm Ziyad Ansari 👋
 
-🎓 B.Tech (Computer Science) student  
-📊 Aspiring Data Analyst  
-📈 Interested in Business, Finance & Trading  
+### 💻 Frontend Developer | HTML • CSS • JavaScript • React
 
----
+I'm a Computer Science graduate and aspiring Frontend Developer passionate about building responsive, user-friendly, and visually appealing web applications.
 
-## 🚀 About Me
-- I am a Computer Science student focused on **Data Analysis**.
-- Currently improving my skills in **Excel, SQL, Python (basics), and Data Visualization**.
-- I enjoy working with **data, business insights, and real-world problem solving**.
-- My goal is to build a **high-paying career as a Data Analyst**.
+I enjoy turning ideas into interactive web experiences while continuously improving my coding and problem-solving skills.
 
----
-
-## 🧠 Skills I'm Learning
-- 📊 MS Excel (Formulas, Pivot Tables, Dashboards)
-- 🐍 Python (Basics for Data Analysis)
-- 🗄️ SQL (Queries & Data Handling)
-- 📈 Data Analysis & Reporting
-- 📉 Business & Financial Data Understanding
+- 🌱 Currently learning and improving my skills in HTML, CSS, JavaScript, and React.
+- 💻 Building frontend projects to gain practical development experience.
+- 🎨 Interested in responsive web design and clean user interfaces.
+- 🧠 Practicing JavaScript logic and problem-solving.
+- 🎯 Looking for opportunities to start my career as a Frontend Developer.
 
 ---
 
-## 🔭 What I'm Working On
-- Data analysis practice projects
-- Excel dashboards
-- Improving analytical thinking
-- Preparing for data analyst job interviews
+### 🛠️ Skills & Technologies
+
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
-## 🤝 Looking to Collaborate On
-- Beginner-friendly data analysis projects
-- Excel / SQL based analysis
-- Learning-focused collaborations
+### 🚀 Featured Projects
+
+I'm working on practical projects to strengthen my frontend development skills.
+
+👉 [Explore My Projects](https://github.com/ziyadansari?tab=repositories)
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: ziyadansari91@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/
-ziyad-ansari-044a60219
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyadansari&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadansari&layout=compact&hide_border=true)
+
+---
+
+### 📫 Connect With Me
+
+- **GitHub:** [@ziyadansari](https://github.com/ziyadansari)
+
+I'm always interested in learning new technologies, collaborating on projects, and exploring opportunities in frontend
