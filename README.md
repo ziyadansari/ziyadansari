@@ -21,6 +21,9 @@ I enjoy turning ideas into interactive web experiences while continuously improv
 - CSS3
 - JavaScript
 - React
+- mongoDb
+- node.js
+- express
 
 **Tools**
 - Git
